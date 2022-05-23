@@ -2,7 +2,7 @@
 
 emailxiaoyquan@163.com (first choice) or yuquanxiao@stu.xidian.edu.cn
 
-full steam ahead! last update on May 14th, 2022.
+full steam ahead! last update on May 23th, 2022.
 
 > If you have strong interests in **Ultra-Low Latency Communications** and **Age of Information** for Beyond-5G and 6G, please contact me and maybe we can have a pleasant cooperation.
 
@@ -13,7 +13,7 @@ May 10th, 2022, received Ph.D admission qualification in XJTU.
 ### Experience
 
 Feb., 2022 – May, 2022, XJTU Ph.D. Application.
-Jul., 2021 – Feb., 2022, Software Engineer (level 15), Huawei Technologies Ltd.
+Jul., 2021 – Feb., 2022, Software Engineer, Huawei Technologies Ltd.
 Jul., 2021, Master, Xidian Univ.
 Jul., 2018, Bachelor, Xidian Univ.
 
