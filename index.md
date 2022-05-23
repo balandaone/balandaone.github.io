@@ -24,3 +24,5 @@ Jul., 2018, Bachelor, Xidian Univ.
 [2] **Y. Xiao** and W. Cheng, "Statistical QoS Guarantees for Energy Harvesting Cognitive Radio Networks," in *Journal of Communications and Information Networks*, vol. 5, no. 1, pp. 100-110, March 2020.
 
 [1] **Y. Xiao**, W. Cheng, W. Zhang and T. Sun, "QoS Guarantee for Energy Harvesting Cognitive Radio Networks : (Invited Paper)," *2018 IEEE International Symposium on Dynamic Spectrum Access Networks (DySPAN)*, 2018, pp. 1-7.
+
+(Yuquan Xiao is currently working toward a Ph.D degree at the School of Information and Communications Engineering, Xi'an Jiaotong University. He received his B.S. and M.S. degrees from Xidian University, in 2018 and 2021, respectively. He had ever worked in Huawei Technologies Co., Ltd. during 2021. His research interests are in ultra-low latency communications.)
